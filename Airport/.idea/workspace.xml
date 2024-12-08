@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50bd17cb-24ab-4087-9af0-fc8fde49fb65" name="Changes" comment="" />
+    <list default="true" id="50bd17cb-24ab-4087-9af0-fc8fde49fb65" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/es/ull/flightspassengers/FlightPassengerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/es/ull/flightspassengers/FlightPassengerTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +45,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.FlightPassengerTest.executor": "Run",
+    "JUnit.FlightTest.executor": "Run",
+    "JUnit.PassengerTest.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "Maven.Airport [clean].executor": "Run",
     "Maven.Airport [compile].executor": "Run",
@@ -64,7 +69,22 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.PassengerTest">
+  <component name="RunManager" selected="JUnit.FlightPassengerTest">
+    <configuration name="FlightPassengerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Airport" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.ull.flightspassengers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.ull.flightspassengers" />
+      <option name="MAIN_CLASS_NAME" value="es.ull.flightspassengers.FlightPassengerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FlightTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Airport" />
       <extension name="coverage">
@@ -97,6 +117,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FlightPassengerTest" />
         <item itemvalue="JUnit.PassengerTest" />
         <item itemvalue="JUnit.FlightTest" />
       </list>
@@ -118,7 +139,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733595283423</updated>
-      <workItem from="1733595284418" duration="3857000" />
+      <workItem from="1733595284418" duration="4167000" />
     </task>
     <servers />
   </component>
