@@ -4,11 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50bd17cb-24ab-4087-9af0-fc8fde49fb65" name="Changes" comment="" />
+    <list default="true" id="50bd17cb-24ab-4087-9af0-fc8fde49fb65" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/es/ull/flights/FlightTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/es/ull/flightspassengers/FlightPassengerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/es/ull/passengers/PassengerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -37,6 +50,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.Airport [clean].executor": "Run",
+    "Maven.Airport [compile].executor": "Run",
+    "Maven.Airport [install].executor": "Run",
+    "Maven.Airport [package].executor": "Run",
+    "Maven.Airport [site].executor": "Run",
+    "Maven.Airport [test].executor": "Run",
+    "Maven.Airport [validate].executor": "Run",
+    "Maven.Airport [verify].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -65,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733595283423</updated>
-      <workItem from="1733595284418" duration="661000" />
+      <workItem from="1733595284418" duration="3524000" />
     </task>
     <servers />
   </component>
