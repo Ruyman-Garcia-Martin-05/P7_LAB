@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50bd17cb-24ab-4087-9af0-fc8fde49fb65" name="Changes" comment="" />
+    <list default="true" id="50bd17cb-24ab-4087-9af0-fc8fde49fb65" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +62,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ruymán/Desktop/LAB/P7Probandp/Practica-LAB/Airport&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/ProyectosLAB/Practica7LAB/P7_LAB/Airport&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -139,6 +142,8 @@
       <option name="presentableId" value="Default" />
       <updated>1733595283423</updated>
       <workItem from="1733595284418" duration="13500000" />
+      <workItem from="1733672200670" duration="631000" />
+      <workItem from="1733673064259" duration="300000" />
     </task>
     <servers />
   </component>
